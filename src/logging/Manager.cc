@@ -8,12 +8,12 @@
 #include <utility>
 
 #include "zeek/Desc.h"
+#include "zeek/Dict.h"
 #include "zeek/Event.h"
 #include "zeek/EventHandler.h"
 #include "zeek/File.h"
 #include "zeek/Func.h"
 #include "zeek/IntrusivePtr.h"
-#include "zeek/NetVar.h"
 #include "zeek/OpaqueVal.h"
 #include "zeek/RunState.h"
 #include "zeek/Timer.h"
