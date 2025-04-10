@@ -12,7 +12,7 @@
 #include "zeek/Type.h"
 #include "zeek/cluster/OnLoop.h"
 #include "zeek/cluster/Serializer.h"
-#include "zeek/cluster/events.bif.h"
+#include "zeek/cluster/cluster.bif.h"
 #include "zeek/logging/Manager.h"
 #include "zeek/util.h"
 
