@@ -1,7 +1,7 @@
 # See the file "COPYING" in the main distribution directory for copyright.
 
 # Layer to build Zeek.
-FROM debian:bookworm-slim
+FROM debian:12.11-slim
 
 # Make the shell split commands in the log so we can determine reasons for
 # failures more easily.
